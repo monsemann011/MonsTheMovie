@@ -6,7 +6,7 @@
   <title>Reserver plass til filmen</title>
 </head>
 <body>
-  <h1>FILMTITTEL</h1>
+  <h1>MonsTheMovie</h1>
   <p>Velkommen! Reserver plass til førpremiere:</p>
 
   <form action="/reserver" method="POST">
